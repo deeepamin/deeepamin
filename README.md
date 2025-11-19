@@ -19,5 +19,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeepamin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-  ## 💰 Support
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/deeepamin) 
