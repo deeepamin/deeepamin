@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeepamin&label=Profile%20views&color=0e75b6&style=flat" alt="deeepamin" /> </p>
 
 # 💫 About Me
-🔭 I’m currently working on [CI Aid for GitLab](https://github.com/deeepamin/gitlab-ci-aid/)<br>💬 Ask me about **Java, Spring Boot, GitLab, AWS, Terraform, IntelliJ plugins**<br> 🤝 I’m looking for help with improving AWS SAML login flow <>
+🔭 I’m currently working on [CI Aid for GitLab](https://github.com/deeepamin/gitlab-ci-aid/), [AWS SAML Sign-In Aid](https://github.com/deeepamin/aws-saml-signin-aid)<br>
+💬 Ask me about **Spring Boot, GitLab, AWS, IntelliJ plugins, Chrome extensions, automations**<br> 
+🤝 I’m looking for collaboration on interesting ideas/products
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
